@@ -32,7 +32,10 @@ Each notebook can be opened directly in Google Colab using the badge links below
 
 ### Day 1
 
-*Materials for this day will appear here in the run-up to the course.*
+| Notebook | Colab |
+|----------|-------|
+| [text_to_numbers](exercises/day1/text_to_numbers.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rptkiddle/gesis-machine-learning-2026/blob/main/exercises/day1/text_to_numbers.ipynb) |
+| [exercise-BoW-Text-to-Numbers-demo](exercises/day1/supplementary/exercise-BoW-Text-to-Numbers-demo.ipynb) (supplementary) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rptkiddle/gesis-machine-learning-2026/blob/main/exercises/day1/supplementary/exercise-BoW-Text-to-Numbers-demo.ipynb) |
 
 ### Day 2
 
