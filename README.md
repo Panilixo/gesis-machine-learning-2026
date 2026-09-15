@@ -36,7 +36,10 @@ Each notebook can be opened directly in Google Colab using the badge links below
 
 ### Day 2
 
-*Materials for this day will appear here in the run-up to the course.*
+| Notebook | Colab |
+|----------|-------|
+| [dimred_and_clustering](exercises/day2/exercises-AM/dimred_and_clustering.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rptkiddle/gesis-machine-learning-2026/blob/main/exercises/day2/exercises-AM/dimred_and_clustering.ipynb) |
+| [BERTopic](exercises/day2/exercises-PM/BERTopic.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rptkiddle/gesis-machine-learning-2026/blob/main/exercises/day2/exercises-PM/BERTopic.ipynb) |
 
 ### Day 3
 
