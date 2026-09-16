@@ -40,7 +40,12 @@ Each notebook can be opened directly in Google Colab using the badge links below
 
 ### Day 3
 
-*Materials for this day will appear here in the run-up to the course.*
+| Notebook | Colab |
+|----------|-------|
+| [first_full_pipeline](exercises/day3/exercise-AM/first_full_pipeline.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rptkiddle/gesis-machine-learning-2026/blob/main/exercises/day3/exercise-AM/first_full_pipeline.ipynb) |
+| [transformers_bert_classification](exercises/day3/exercise-PM/transformers_bert_classification.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rptkiddle/gesis-machine-learning-2026/blob/main/exercises/day3/exercise-PM/transformers_bert_classification.ipynb) |
+| [transformers_bert_classification_with_comments](exercises/day3/exercise-PM/transformers_bert_classification_with_comments.ipynb) (commented version) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rptkiddle/gesis-machine-learning-2026/blob/main/exercises/day3/exercise-PM/transformers_bert_classification_with_comments.ipynb) |
+| [exercise-contextual_embeddings](exercises/day3/exercise-PM/exercise-contextual_embeddings.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rptkiddle/gesis-machine-learning-2026/blob/main/exercises/day3/exercise-PM/exercise-contextual_embeddings.ipynb) |
 
 ### Day 4
 
