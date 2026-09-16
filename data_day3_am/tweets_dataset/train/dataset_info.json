@@ -1,0 +1,51 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "offensive",
+  "dataset_name": "tweet_eval",
+  "dataset_size": 1977715,
+  "description": "",
+  "download_size": 1234528,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "names": [
+        "non-offensive",
+        "offensive"
+      ],
+      "_type": "ClassLabel"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 3212243,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1649551,
+      "num_examples": 11916,
+      "dataset_name": "tweet_eval"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 135581,
+      "num_examples": 860,
+      "dataset_name": "tweet_eval"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 192583,
+      "num_examples": 1324,
+      "dataset_name": "tweet_eval"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
